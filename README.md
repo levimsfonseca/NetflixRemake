@@ -16,6 +16,9 @@ This application was a simplified version of the initial dashboard of the famous
     * Handler;
 - UI Components
     - TextView
+    - RecyclerView
+    - Progress Bar
+    
     - Diverses Contraints
     - EditText
     - Button
