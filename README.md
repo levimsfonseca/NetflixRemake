@@ -1,5 +1,5 @@
 # NetflixRemake
-This application was a simplified version of the initial dashboard of the famous application for streaming movies and series: Netflix.It was developed from scratch with the help of professor and specialist Tiago Aguiar.
+This application was a simplified version of the initial dashboard of the famous application for streaming movies and series: Netflix. It was developed from scratch with the help of a simple database just to exemplify the titles and descriptions of some films to check a preview of how the final result would look. My instructor ans specialist Tiago Aguiar also help me to complete this achivemente.
 
 
 ## :camera_flash: Screenshots
