@@ -9,19 +9,20 @@ This application was a simplified version of the initial dashboard of the famous
 * Kotlin
 * Activity for screem hosts
 * ViewGroup
-    * RelativeLayout
-    * LinearLayout
-    * Classes/DataClasses/InnerClasses;
-    * Multiple Functions to overide;
-    * Handler;
+* RelativeLayout
+* LinearLayout
+* Classes/DataClasses/InnerClasses;
+* Multiple Functions to overide; 
+* Handler;
+
 - UI Components
     - TextView
     - RecyclerView
     - Progress Bar
-    
     - Diverses Contraints
     - EditText
     - Button
+
 - Toast for message display
 - Intent Explicit to open the second Activity
 - FindViewById to retrieve UI components
