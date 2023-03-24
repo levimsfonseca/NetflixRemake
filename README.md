@@ -4,8 +4,7 @@ CThis application was a simplified version of the initial dashboard of the famou
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://user-images.githubusercontent.com/86428049/227636644-f93da8f0-ecdd-4acf-9e2b-3498c893550e.png" width="260">&emsp;<img src="https://user-images.githubusercontent.com/86428049/227636916-c725e685-b2f3-411c-8c45-4b8a0821c512.png" width="260">&emsp;<img src="https://user-images.githubusercontent.com/86428049/214728993-adc645ce-642c-4d97-a20e-32f2f3da9ae3.png" width="260">
-
+<img src="https://user-images.githubusercontent.com/86428049/227636644-f93da8f0-ecdd-4acf-9e2b-3498c893550e.png" width="260">&emsp;<img src="https://user-images.githubusercontent.com/86428049/227636916-c725e685-b2f3-411c-8c45-4b8a0821c512.png" width="260">&emsp;
 ## Technologies
 * Kotlin
 * Activity for screem hosts
