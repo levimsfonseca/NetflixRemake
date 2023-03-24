@@ -1,5 +1,5 @@
 # NetflixRemake
-CThis application was a simplified version of the initial dashboard of the famous application for streaming movies and series: Netflix.It was developed from scratch with the help of professor and specialist Tiago Aguiar.
+This application was a simplified version of the initial dashboard of the famous application for streaming movies and series: Netflix.It was developed from scratch with the help of professor and specialist Tiago Aguiar.
 
 
 ## :camera_flash: Screenshots
@@ -11,8 +11,12 @@ CThis application was a simplified version of the initial dashboard of the famou
 * ViewGroup
     * RelativeLayout
     * LinearLayout
+    * Classes/DataClasses/InnerClasses;
+    * Multiple Functions to overide;
+    * Handler;
 - UI Components
     - TextView
+    - Diverses Contraints
     - EditText
     - Button
 - Toast for message display
@@ -20,9 +24,6 @@ CThis application was a simplified version of the initial dashboard of the famou
 - FindViewById to retrieve UI components
 - String resource for text concatenation
 
-
-### TO-DO
-- Improve app styling.
 
 ## Author
 Levi Fonseca (follow me on [Linkedin](https://www.linkedin.com/in/levi-fonseca-231b7b251/))
